@@ -12,7 +12,7 @@ export default function Footer() {
         </div>
         
         <div className="text-sm font-mono text-muted-foreground">
-          Built by <span className="text-accent text-glow-pink font-bold">Tofazzal Hossain</span>
+          SYNTHID REMOVER GUIDE
         </div>
         
         <div className="text-xs text-muted-foreground/50 font-mono">
